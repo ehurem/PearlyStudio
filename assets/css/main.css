@@ -1869,7 +1869,7 @@ input, select, textarea {
 					position: absolute;
 					top: 0;
 					height: 100%;
-					width: auto;
+					width: 100%;
 				}
 
 			.box.style1 .inner > :last-child {
@@ -1881,7 +1881,7 @@ input, select, textarea {
 			}
 
 				.box.style1.right .image img {
-					right: -85px;
+					right: 0px;
 				}
 
 			.box.style1.right .inner {
